@@ -1,3 +1,7 @@
+# Apresentacao
+
+Este é um trabalho conjunto realizado na faculdade, cujo objetivo era criar um site completo e funcional com back-end em Laravel, capaz de transmitir histórias infantis para crianças. O site possui um incrível front-end, capaz de despertar a curiosidade das crianças.
+
 ### Primeira Configuração
 
 * Instale as dependencias do Composer: `composer install`
